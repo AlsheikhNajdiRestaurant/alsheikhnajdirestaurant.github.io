@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alsheikhnajdirestaurant.github.io/sitemap.xml
